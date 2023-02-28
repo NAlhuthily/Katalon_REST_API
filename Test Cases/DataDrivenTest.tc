@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2689f9b-ab92-48c0-9891-3e9467efd2e3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7d03ba50-5cd5-4e26-8dcc-9d0bfa8b80f6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Norah'</defaultValue>
+      <description></description>
+      <id>7d03ba50-5cd5-4e26-8dcc-9d0bfa8b80f6</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+</TestCaseEntity>
